@@ -1,0 +1,2 @@
+# capacitaciondeGIT
+Repositoriosejemplo1
